@@ -5,7 +5,7 @@ public class Main {
         int b = 12;
         int c = 18;
 
-        System.out.println(b*b - (4*a*c));
+        System.out.println(Math.pow(b, 2) - (4*a*c));
 
     }
 }
